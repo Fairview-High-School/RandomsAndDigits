@@ -1,16 +1,15 @@
 import java.util.Scanner;
 
 /**
- * Take it Further U2.5b - Extra Credit
- * AP / IB Computer Science  .  Unit 2  .  assigned Day 21, open until the unit test
+ * AP / IB Computer Science  .  Unit 2
  *
  * Six problems in two sets.
- *   Set A - the Math class from Day 20. No input; the program does the choosing.
+ *   Set A - the Math class.No input; the program does the choosing.
  *   Set B - integer division and modulus, with a Scanner.
  *
  * All six are straight-line programs. No if statements. No loops.
  *
- * Do as many as you want. Delete the ones you do not attempt, or leave them.
+ * Do one from SET A and one from SET B, or all of them if you can. Delete the ones you do not attempt, or leave them.
  *
  * @author  (your name here)
  */
@@ -83,7 +82,7 @@ public class RandomsAndDigits {
         //
         // The + 0.5 is not decoration. Try 40.12 with it and without it -
         // 40.12 * 100 is 4011.9999999999995 in a double, and the cast throws
-        // the rest away. That is the Day 14 round-off error in real money.
+        // the rest away. That is round-off error in real money.
 
     }
 }
